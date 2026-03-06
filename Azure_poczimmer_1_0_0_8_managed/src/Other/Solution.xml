@@ -6,13 +6,8 @@
       <LocalizedName description="Azure_poczimmer" languagecode="1033" />
     </LocalizedNames>
     <Descriptions />
-<<<<<<< HEAD
     <Version>1.0.0.7</Version>
     <Managed>0</Managed>
-=======
-    <Version>1.0.0.8</Version>
-    <Managed>1</Managed>
->>>>>>> 3b756a628de4f483e2431472b5e04245acf9cc0b
     <Publisher>
       <UniqueName>pocpublisher</UniqueName>
       <LocalizedNames>
