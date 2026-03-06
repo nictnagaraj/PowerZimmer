@@ -1,0 +1,11 @@
+<environmentvariabledefinition schemaname="poc_dataversetablepoc">
+  <apiid>/providers/microsoft.powerapps/apis/shared_commondataservice</apiid>
+  <displayname default="dataversetablepoc">
+    <label description="dataversetablepoc" languagecode="1033" />
+  </displayname>
+  <introducedversion>1.0.0.6</introducedversion>
+  <iscustomizable>1</iscustomizable>
+  <isrequired>0</isrequired>
+  <secretstore>0</secretstore>
+  <type>100000004</type>
+</environmentvariabledefinition>
